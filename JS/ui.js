@@ -1,0 +1,1 @@
+// Score, bars, combo display, power-up icons update
